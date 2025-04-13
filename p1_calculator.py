@@ -1,6 +1,6 @@
 def calculator():
     no_1 = int(input("enter your first number"))
-    operation = (input("enter  arithmetic operation  like +,-,*,/")
+    operation = input("enter  arithmetic operation  like +,-,*,/")
     no_2 = int(input("enter your  second number"))
 
     if operation =='+':

@@ -19,5 +19,5 @@ def calculator() -> None:
     else:
         print("invalid output")
 
-
+ 
 calculator()

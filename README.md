@@ -5,7 +5,7 @@
 ## 📦 Установка
 
 Клонируйте репозиторий:
-
+  
 ```bash
 git clone https://github.com/ruslansenatorov/calculator2.git
 cd calculator2
